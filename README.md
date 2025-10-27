@@ -7,11 +7,10 @@ In this data cleaning, analysis and visualisation project, I clean the Adventure
 ![Home_page](page-1.png)
 
 **Page 2 - Sales by Customer**
-
+![sales_by_customer](page-3.png)
 
 **Page 3 - Sales by Product**
-
-
+![Home_by_product](page-3.png)
 
 
 **Future Project Aim**
