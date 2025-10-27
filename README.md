@@ -4,14 +4,14 @@ In this data cleaning, analysis and visualisation project, I clean the Adventure
 
 
 **Page 1 - AdventureWorks Sales Overview**
-
+![Home_page](page-1.png)
 
 **Page 2 - Sales by Customer**
 
 
 **Page 3 - Sales by Product**
 
-![portfolio_1-image-adventure_works_3](https://user-images.githubusercontent.com/122973220/213426517-39db89b9-88e1-4241-9844-bd65cfadb686.jpg)
+
 
 
 **Future Project Aim**
